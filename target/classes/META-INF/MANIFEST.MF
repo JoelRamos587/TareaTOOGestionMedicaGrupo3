@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gestionMedicamento
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rulo Trigueros
+Implementation-Vendor-Id: com.too
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gestionMedicamento
+Created-By: Maven Integration for Eclipse
+
